@@ -1,0 +1,10 @@
+  .classpath
+  .project
+  .settings/org.eclipse.jdt.core.prefs
+  bin/loanAssistant/LoanAssistant$1.class
+  bin/loanAssistant/LoanAssistant$2.class
+  bin/loanAssistant/LoanAssistant$3.class
+  bin/loanAssistant/LoanAssistant$4.class
+  bin/loanAssistant/LoanAssistant$5.class
+  bin/loanAssistant/LoanAssistant.class
+  src/loanAssistant/LoanAssistant.java
