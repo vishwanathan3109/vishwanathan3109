@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vishwanathan3109
-- 👀 I’m interested in ...studying and coding
-- 🌱 I’m currently learning ...database management system
-- 💞️ I’m looking to collaborate on ...website developing
+- 👀 I’m interested in ...Learning and coding
+- 🌱 I’m currently learning ...Front-End web development
 - 📫 How to reach me ...viswanathan.v731@gmail.com
 
 <!---
