@@ -1,4 +1,6 @@
-<div align="center"> ![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRsZTgzbDNqenA0NGVpcjh2cTFiaGdvcDQwdGhmamQ3dTYwb3VrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif)</div>
+<div align="center"> ![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRsZTgzbDNqenA0NGVpcjh2cTFiaGdvcDQwdGhmamQ3dTYwb3VrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif) </div>
+
+<br/>
 ## *<div align="center">I'm Viswanathan V, Vue.Js / Front-End Developer </div>*  
   
 
