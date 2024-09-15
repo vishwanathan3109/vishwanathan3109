@@ -1,3 +1,4 @@
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 ## *<div align="center">I'm Viswanathan V, Vue.Js / Front-End Developer </div>*  
   
 
