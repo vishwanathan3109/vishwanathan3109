@@ -1,8 +1,7 @@
 
 ## *<div align="center">I'm Viswanathan V, Vue.Js / Front-End Developer </div>*  
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=204702745549241158" height="550" width="600" frameborder="0" scrolling="no" ></iframe>
 
-<img src="https://pin.it/698TyHiL8" width="100%" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1lendrMGpnYnc4eTdha2NhZmoxM2I3Y3g0NHd2azlveXllemxzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" />
 
 *<div align="center">I’m currently working on Many industry-leading projects in various domains.🚀</div>*  
   
