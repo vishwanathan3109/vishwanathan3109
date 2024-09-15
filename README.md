@@ -2,6 +2,8 @@
 ## *<div align="center">I'm Viswanathan V, Vue.Js / Front-End Developer </div>*  
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1lendrMGpnYnc4eTdha2NhZmoxM2I3Y3g0NHd2azlveXllemxzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" />
+<img src="https://github.com/vishwanathan3109/gifs/blob/main/devvishwa.gif" width="100%" />
+
 
 *<div align="center">I’m currently working on Many industry-leading projects in various domains.🚀</div>*  
   
