@@ -1,9 +1,4 @@
-<div align="center">
-
 ![](https://https://github.com/vishwanathan3109/gifs/blob/main/devvishwa.gif)
-  
-</div>  
-  
 
 ## *<div align="center">I'm Viswanathan V, Vue.Js / Front-End Developer </div>*  
   
