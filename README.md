@@ -1,6 +1,6 @@
 ![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRsZTgzbDNqenA0NGVpcjh2cTFiaGdvcDQwdGhmamQ3dTYwb3VrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif)
 
-<img src="(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRsZTgzbDNqenA0NGVpcjh2cTFiaGdvcDQwdGhmamQ3dTYwb3VrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif)" width="100%" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRsZTgzbDNqenA0NGVpcjh2cTFiaGdvcDQwdGhmamQ3dTYwb3VrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="100%" />
 
 
 ## *<div align="center">I'm Viswanathan V, Vue.Js / Front-End Developer </div>*  
